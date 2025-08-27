@@ -23,7 +23,7 @@
                 text-align: center; color: white;">
       <span style="font-size: 60px;">📞</span>
       <span style="font-size: 18px; font-weight: bold;">Call Us!</span>
-      <span style="font-size: 14px;">(03) 1234 5678</span>
+      <span style="font-size: 14px;">(03) 9193 5126</span>
     </div>
 
     <!-- Come To Us Circle -->
@@ -46,7 +46,7 @@
 
   <!-- Footer -->
   <div style="margin-top: 60px; font-size: 14px; color: #444;">
-    <p><strong>Opening Hours:</strong> Mon–Fri 8:30am – 6:00pm</p>
+    <p><strong>Opening Hours:</strong> Mon–Fri 9:00am – 5:00pm</p>
     <p><strong>Email:</strong> contact@healthbound.com</p>
   </div>
 
