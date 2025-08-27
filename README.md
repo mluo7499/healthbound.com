@@ -2,17 +2,23 @@
 <p style="text-align: center; font-weight: bold;">Family Practice</p>
 <br>
 
-<div style="display: flex; justify-content: center; gap: 100px; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 80px;">
 
   <!-- Call Us Circle slightly left -->
-  <div style="width: 200px; height: 200px; border-radius: 50%; background-color: #f0f0f0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; margin-left: -30px;">
+  <div style="width: 200px; height: 200px; border-radius: 50%; 
+              background: #a0d8f1; box-shadow: 0 8px 15px rgba(0,0,0,0.2); 
+              display: flex; flex-direction: column; align-items: center; 
+              justify-content: center; text-align: center; margin-left: -20px;">
     <span style="font-size: 60px;">📞</span>
     <strong>Call Us!</strong>
     <p style="margin: 5px 0;">(03) 1234 5678</p>
   </div>
 
   <!-- Come To Us Circle slightly right -->
-  <div style="width: 200px; height: 200px; border-radius: 50%; background-color: #f0f0f0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; margin-right: -30px;">
+  <div style="width: 200px; height: 200px; border-radius: 50%; 
+              background: #f9a0c4; box-shadow: 0 8px 15px rgba(0,0,0,0.2); 
+              display: flex; flex-direction: column; align-items: center; 
+              justify-content: center; text-align: center; margin-right: -20px;">
     <span style="font-size: 60px;">🏥</span>
     <strong>Come To Us!</strong>
     <p style="margin: 5px 0;">144 East Boundary Road</p>
