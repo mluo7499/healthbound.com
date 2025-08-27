@@ -1,92 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Healthbound Family Practice</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin-top: 50px;
-    }
+<div style="font-family: Arial, sans-serif; text-align: center; margin-top: 50px;">
 
-    h1 {
-      font-size: 60px;
-    }
+  <!-- Big Title -->
+  <h1 style="font-size: 60px; margin-bottom: 10px;">🏥 Healthbound</h1>
 
-    p.saying {
-      font-size: 20px;
-      font-style: italic;
-      margin-top: 5px;
-      margin-bottom: 30px;
-    }
+  <!-- Saying -->
+  <p style="font-size: 20px; font-style: italic; margin-bottom: 20px;">
+    “Caring for you, every step of the way”
+  </p>
 
-    hr {
-      width: 60%;
-      border: 1px solid #ccc;
-      margin: 20px auto;
-    }
+  <!-- Horizontal line -->
+  <div style="width: 60%; height: 2px; background-color: #ccc; margin: 0 auto 40px;"></div>
 
-    .circles {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 80px;
-      margin-top: 20px;
-    }
+  <!-- Circles -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 80px;">
 
-    .circle {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      background-color: #89a34b;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      color: white;
-    }
-
-    .circle.left { margin-left: -20px; }
-    .circle.right { margin-right: -20px; }
-
-    .circle span.title {
-      font-size: 18px;
-      font-weight: bold;
-    }
-
-    .circle span.info {
-      font-size: 14px;
-      margin-top: 5px;
-    }
-
-    .circle span.emoji {
-      font-size: 60px;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>🏥 Healthbound</h1>
-  <p class="saying">“Caring for you, every step of the way”</p>
-  <hr>
-
-  <div class="circles">
     <!-- Call Us Circle -->
-    <div class="circle left">
-      <span class="emoji">📞</span>
-      <span class="title">Call Us!</span>
-      <span class="info">(03) 1234 5678</span>
+    <div style="width: 200px; height: 200px; border-radius: 50%; background-color: #89a34b; 
+                display: flex; flex-direction: column; align-items: center; justify-content: center; 
+                text-align: center; color: white; margin-left: -20px;">
+      <span style="font-size: 60px;">📞</span>
+      <span style="font-size: 18px; font-weight: bold;">Call Us!</span>
+      <span style="font-size: 14px;">(03) 1234 5678</span>
     </div>
 
     <!-- Come To Us Circle -->
-    <div class="circle right">
-      <span class="emoji">🏥</span>
-      <span class="title">Come To Us!</span>
-      <span class="info">144 East Boundary Road</span>
+    <div style="width: 200px; height: 200px; border-radius: 50%; background-color: #89a34b; 
+                display: flex; flex-direction: column; align-items: center; justify-content: center; 
+                text-align: center; color: white; margin-right: -20px;">
+      <span style="font-size: 60px;">🏥</span>
+      <span style="font-size: 18px; font-weight: bold;">Come To Us!</span>
+      <span style="font-size: 14px;">144 East Boundary Road</span>
     </div>
+
   </div>
 
-</body>
-</html>
+</div>
