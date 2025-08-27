@@ -1,6 +1,7 @@
 <h1 style="text-align: center; font-size: 60px;">🏥 Healthbound</h1>
-<p style="text-align: center; font-weight: bold;">Family Practice</p>
-<br>
+<p style="text-align: center; font-size: 20px; font-style: italic; margin-top: 5px;">“Caring for you, every step of the way”</p>
+
+<hr style="width: 50%; margin: 30px auto; border: 1px solid #ccc;">
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 80px;">
 
