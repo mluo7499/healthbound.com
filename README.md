@@ -23,7 +23,7 @@
                 text-align: center; color: white;">
       <span style="font-size: 60px;">📞</span>
       <span style="font-size: 18px; font-weight: bold;">Call Us!</span>
-      <span style="font-size: 14px;">(03) 9193 5126</span>
+      <span style="font-size: 14px;">(04) 9193 5126</span>
     </div>
 
     <!-- Come To Us Circle -->
