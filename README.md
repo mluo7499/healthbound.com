@@ -12,15 +12,19 @@
 
     h1 {
       font-size: 60px;
-      display: inline-block;
-      border-bottom: 3px solid #ccc;
-      padding-bottom: 10px;
     }
 
     p.saying {
       font-size: 20px;
       font-style: italic;
-      margin-top: 20px;
+      margin-top: 5px;
+      margin-bottom: 30px;
+    }
+
+    hr {
+      width: 60%;
+      border: 1px solid #ccc;
+      margin: 20px auto;
     }
 
     .circles {
@@ -28,7 +32,7 @@
       justify-content: center;
       align-items: center;
       gap: 80px;
-      margin-top: 40px;
+      margin-top: 20px;
     }
 
     .circle {
@@ -66,6 +70,7 @@
 
   <h1>🏥 Healthbound</h1>
   <p class="saying">“Caring for you, every step of the way”</p>
+  <hr>
 
   <div class="circles">
     <!-- Call Us Circle -->
