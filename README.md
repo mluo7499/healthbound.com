@@ -47,7 +47,7 @@
   <!-- Footer -->
   <div style="margin-top: 60px; font-size: 14px; color: #444;">
     <p><strong>Opening Hours:</strong> Mon–Fri 9:00am – 5:00pm</p>
-    <p><strong>Email:</strong> contact@healthbound.com</p>
+    <p><strong>Email:</strong> admin@ozbesthealth.com.au</p>
   </div>
 
 </div>
