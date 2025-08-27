@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Healthbound Family Practice</title>
+  <!-- Font Awesome for icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     body { font-family: Arial, sans-serif; text-align: center; }
