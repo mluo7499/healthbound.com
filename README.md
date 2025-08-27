@@ -1,4 +1,4 @@
-<div style="font-family: Arial, sans-serif; text-align: center; background-color: #a9cd9f; padding: 50px 0;">
+<div style="font-family: Arial, sans-serif; text-align: center; background-color: #a9cd9f; filter: saturate(1.3); min-height: 100vh; padding: 50px 0; margin: 0;">
 
   <!-- Big Title -->
   <h1 style="font-size: 60px; margin-bottom: 10px;">🏥 Healthbound</h1>
