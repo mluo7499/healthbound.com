@@ -1,49 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Healthbound Family Practice</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin-top: 50px;
-    }
-    h1 {
-      font-size: 60px;
-      margin-bottom: 10px;
-    }
-    h2 {
-      margin-top: 0;
-      font-weight: normal;
-      margin-bottom: 40px;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    .emoji {
-      font-size: 50px;
-      display: block;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
+<h1 align="center" style="font-size: 60px;">🏥 Healthbound</h1>
 
-  <h1>🏥 Healthbound</h1>
-  <h2>Family Practice</h2>
+<p align="center"><strong>Family Practice</strong></p>
 
-  <div class="section">
-    <span class="emoji">📞</span>
-    <h3>Call Us!</h3>
-    <p>(03) 1234 5678</p>
-  </div>
+<br>
 
-  <div class="section">
-    <span class="emoji">🏥</span>
-    <h3>Come To Us!</h3>
-    <p>144 East Boundary Road</p>
-  </div>
+<div align="center">
 
-</body>
-</html>
+<table>
+<tr>
+<td align="center" width="50%">
+  
+📞  
+**Call Us!**  
+(03) 1234 5678  
+
+</td>
+<td align="center" width="50%">
+
+🏥  
+**Come To Us!**  
+144 East Boundary Road  
+
+</td>
+</tr>
+</table>
+
+</div>
