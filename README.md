@@ -1,4 +1,4 @@
-<div style="font-family: Arial, sans-serif; text-align: center; margin-top: 50px;">
+<div style="font-family: Arial, sans-serif; text-align: center; margin-top: 50px; background-color: #a9cd9f; padding: 50px 0;">
 
   <!-- Big Title -->
   <h1 style="font-size: 60px; margin-bottom: 10px;">🏥 Healthbound</h1>
@@ -8,7 +8,7 @@
     “Caring for you, every step of the way”
   </p>
 
-  <!-- Image instead of line -->
+  <!-- Image -->
   <div style="margin: 0 auto 40px; width: 60%;">
     <img src="https://static.okweb.com.au/zone/data/-1412115387_healthbound/admin/image/headphoto_rpro.jpg" 
          alt="Healthbound line" style="width: 100%; height: auto;">
