@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 60px;">🏥 Healthbound</h1>
 
-<p align="center"><strong>Family Practice</strong></p>
+<p align="center"><strong>Your local clinic</strong></p>
 
 <br>
 
