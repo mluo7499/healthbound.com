@@ -6,7 +6,7 @@
 
   <!-- Call Us Circle slightly left -->
   <div style="width: 200px; height: 200px; border-radius: 50%; 
-              background: #a0d8f1; box-shadow: 0 8px 15px rgba(0,0,0,0.2); 
+              background: #89a34b; 
               display: flex; flex-direction: column; align-items: center; 
               justify-content: center; text-align: center; margin-left: -20px;">
     <span style="font-size: 60px;">📞</span>
@@ -16,7 +16,7 @@
 
   <!-- Come To Us Circle slightly right -->
   <div style="width: 200px; height: 200px; border-radius: 50%; 
-              background: #f9a0c4; box-shadow: 0 8px 15px rgba(0,0,0,0.2); 
+              background: #89a34b; 
               display: flex; flex-direction: column; align-items: center; 
               justify-content: center; text-align: center; margin-right: -20px;">
     <span style="font-size: 60px;">🏥</span>
