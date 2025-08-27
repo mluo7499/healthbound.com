@@ -6,10 +6,15 @@
 </head>
 <body style="font-family: Arial, sans-serif; text-align: center; margin-top: 50px;">
 
-  <h1 style="font-size: 60px;">🏥 Healthbound</h1>
-  <p style="font-size: 20px; font-style: italic; margin-top: 5px;">“Caring for you, every step of the way”</p>
+  <h1 style="font-size: 60px; display: inline-block; border-bottom: 3px solid #ccc; padding-bottom: 10px;">
+    🏥 Healthbound
+  </h1>
 
-  <hr style="width: 50%; margin: 30px auto; border: 1px solid #ccc;">
+  <p style="font-size: 20px; font-style: italic; margin-top: 20px;">
+    “Caring for you, every step of the way”
+  </p>
+
+  <br>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 80px;">
 
