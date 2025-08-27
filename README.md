@@ -8,8 +8,11 @@
     “Caring for you, every step of the way”
   </p>
 
-  <!-- Horizontal line -->
-  <div style="width: 60%; height: 2px; background-color: #ccc; margin: 0 auto 40px;"></div>
+  <!-- Image instead of line -->
+  <div style="margin: 0 auto 40px; width: 60%;">
+    <img src="https://static.okweb.com.au/zone/data/-1412115387_healthbound/admin/image/headphoto_rpro.jpg" 
+         alt="Healthbound line" style="width: 100%; height: auto;">
+  </div>
 
   <!-- Circles -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 80px;">
