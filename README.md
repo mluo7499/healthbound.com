@@ -84,7 +84,7 @@
 
   <div class="container">
     <h1>🏥 Healthbound</h1>
-    <p class="saying">“Caring for you, every step of the way”</p>
+    <p class="saying">“Your loacl clinic to go to”</p>
 
     <div class="image-line">
       <img src="https://static.okweb.com.au/zone/data/-1412115387_healthbound/admin/image/headphoto_rpro.jpg" alt="Healthbound line">
