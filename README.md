@@ -5,9 +5,9 @@
     “Caring for you, every step of the way”
   </p>
 
-  <!-- Image instead of line -->
+  <!-- Updated Image -->
   <div style="margin: 0 auto 40px; width: 60%;">
-    <img src="/images/headphoto_rpro.jpg" alt="Healthbound line" style="width: 100%; height: auto;">
+    <img src="/mnt/data/24134061401.png" alt="Healthbound line" style="width: 100%; height: auto;">
   </div>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 80px;">
